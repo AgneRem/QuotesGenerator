@@ -1,0 +1,42 @@
+body {
+  font-family: "Times New Roman";
+}
+
+h1{
+  color:white;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.quotes{
+  background-color: white;
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid white;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  height: auto;
+  font-size: 30px;
+}
+
+.author{
+  font-size: 20px;
+  font-style: italic;
+}
+
+.fa{
+  border-radius: 50%;
+  font-size:0.5em;
+  padding: 10px;
+}
+
+i.fa.fa-facebook{
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.btn {
+  background-color: white;
+}
